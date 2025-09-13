@@ -7,7 +7,6 @@ node_modules/
 .expo/
 dist/
 web-build/
-lib/
 android
 ios
 
